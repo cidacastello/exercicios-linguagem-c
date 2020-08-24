@@ -5,8 +5,7 @@ int main(){
 	//declaração e inicialização das variáveis
 	float velocidadeInicial=10, aceleracao=3, tempo, velocidade;
 		
-	printf("***** M.V.U. *****\n\n");
-	
+	printf("***** M.V.U. *****\n\n");	
 	
 	printf("Informe o tempo em segundos: ");
 	
